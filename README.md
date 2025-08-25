@@ -1,4 +1,4 @@
-# Watch E-Commerce Website ⌚
+# Watch E-Commerce Website 
 
 This is a practice project I built for my portfolio to simulate a simple e-commerce website for watches.  
 The goal of this project was to get hands-on experience with front-end development, layout design, and styling.
